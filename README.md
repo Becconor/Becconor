@@ -1,7 +1,7 @@
 <img src="Images/BatmanGirl.png"/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello,%20welcome%20to%20my%20code%20space!&section=header&fontColor=black&fontSize=48" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Hello,%20welcome%20to%20my%20code%20space!&section=header&reversal=false&textBg=false&fontColor=black&fontSize=48&fontAlign=50&fontAlignY=50&rotate=0&descAlign=40&descAlignY=60" />
 </p>
 <p align="center">I’m a Web Development student in my second year based in Malmö, Sweden.👩🏻‍🎓📚<br/> Currently focusing on front-end development and UX/UI design, with experience in building user-friendly web applications, while also expanding my backend knowledge in Java and Python.</p>
 
