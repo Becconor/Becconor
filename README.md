@@ -39,11 +39,11 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Becconor&show_icons=true&bg_color=000000&title_color=F772AA&text_color=FFFFFF&icon_color=3E98F7&hide_border=true" 
-    width="42%" height="200px" 
+    width="45%" height="200px" 
   />
   <img 
     src="https://streak-stats.demolab.com?user=Becconor&background=000000&ring=F772AA&fire=3E98F7&currStreakLabel=3E98F7&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&stroke=FFFFFF&hide_border=true" 
-    width="49%" height="200px" 
+    width="50%" height="200px" 
   />
 </p>
 
