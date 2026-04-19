@@ -38,7 +38,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api username=Becconor
+    src="https://github-readme-stats.vercel.app/api?username=Becconor
     &show_icons=true
     &bg_color=000000
     &title_color=F772AA
