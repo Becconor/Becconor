@@ -29,7 +29,7 @@
 
 
 
-## 👩🏻‍💻 My Projects
+##
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
