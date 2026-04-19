@@ -43,7 +43,7 @@
   />
   <img 
     src="https://streak-stats.demolab.com?user=Becconor&background=000000&ring=F772AA&fire=3E98F7&currStreakLabel=3E98F7&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&stroke=FFFFFF&hide_border=true" 
-    width="50%" height="200px" 
+    width="51%" height="200px" 
   />
 </p>
 
