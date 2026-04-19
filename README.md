@@ -45,7 +45,7 @@
     &text_color=FFFFFF
     &icon_color=3E98F7
     &hide_border=true" 
-    width="49%" height="200px" 
+    width="48%" height="200px" 
   />
   <img 
   src="https://streak-stats.demolab.com?user=Becconor
@@ -59,7 +59,7 @@
   &dates=FFFFFF
   &stroke=FFFFFF
   &hide_border=true" 
-  width="49%" height="200px" 
+  width="48%" height="200px" 
 />
 </p>
 
