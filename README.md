@@ -23,3 +23,10 @@
   <img src="https://img.shields.io/badge/Cybersecurity-222222?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Cybersecurity" />
   <img src="https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
 </p>
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **Simple Calculator** | A simple calculator built with JavaScript, featuring dynamic DOM manipulation, event handling, and basic arithmetic operations. | HTML • CSS • Javascript | [GitHub](https://github.com/Becconor/Simple-Calculator.git)
+
