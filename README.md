@@ -1,4 +1,4 @@
-<img src="Images/BatmanGirl.png"/>
+<img src="Images/BatmanGirl.png" style="border: 2px solid #fff"/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=0:F772AA,100:3E98F7&text=Hello,%20welcome%20to%20my%20code%20space!&section=header&reversal=false&textBg=false&fontColor=black&fontSize=48&fontAlign=50&fontAlignY=50&rotate=0&descAlign=40&descAlignY=60" />
