@@ -48,7 +48,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Becconor&show_icons=true&bg_color=000000&title_color=3E98F7&text_color=FFFFFF&icon_color=3E98F7&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Becconor&show_icons=true&bg_color=000000&title_color=3E98F7&text_color=FFFFFF&icon_color=F772AA&hide_border=true" 
     width="48%" height="200px" 
   />
   <img 
