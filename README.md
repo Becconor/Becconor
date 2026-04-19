@@ -32,3 +32,11 @@
 |---------|-------------|------------|------|
 | **Simple Calculator** | A simple calculator built with JavaScript, featuring dynamic DOM manipulation, event handling, and basic arithmetic operations. | HTML • CSS • Javascript | [GitHub](https://github.com/Becconor/Simple-Calculator.git)
 
+
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Becconor&show_icons=true&theme=dark" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Becconor&theme=dark" width="48%" />
+</p>
