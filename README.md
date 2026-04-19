@@ -33,7 +33,7 @@
 
 <br><br>
 <h2 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&color=0:F772AA,100:3E98F7&text=My%20Projects&section=header&reversal=false&textBg=false&fontColor=3E98F7&fontSize=24&fontAlign=50&fontAlignY=50&rotate=0&descAlign=40&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&color=0:F772AA,100:3E98F7&text=My%20Projects&section=header&reversal=false&textBg=false&fontColor=F772AA&fontSize=24&fontAlign=50&fontAlignY=50&rotate=0&descAlign=40&descAlignY=60" />
 </h2>
 
 | Project | Description | Tech Stack | Link |
@@ -42,7 +42,7 @@
 
 <br><br>
 <h2 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&color=0:F772AA,100:3E98F7&text=Statistics&section=header&reversal=false&textBg=false&fontColor=F772AA&fontSize=24&fontAlign=50&fontAlignY=50&rotate=0&descAlign=40&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&color=0:F772AA,100:3E98F7&text=Statistics&section=header&reversal=false&textBg=false&fontColor=3E98F7&fontSize=24&fontAlign=50&fontAlignY=50&rotate=0&descAlign=40&descAlignY=60" />
 </h2>
 
 <p align="center">
