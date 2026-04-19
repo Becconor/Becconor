@@ -5,15 +5,10 @@
 </p>
 <p align="center">I’m a Web Development student in my second year based in Malmö, Sweden.👩🏻‍🎓📚<br/> Currently focusing on front-end development and UX/UI design, with experience in building user-friendly web applications, while also expanding my backend knowledge in Java and Python.</p>
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&color=0:F772AA,100:3E98F7&text=Technologies&section=header&reversal=false&textBg=false&fontColor=F772AA&fontSize=24&fontAlign=50&fontAlignY=50&rotate=0&descAlign=40&descAlignY=60" />
-</p>
-<h2 align="center" style="color:#F772AA;">Technologies</h2>
-<h2 align="center" style="color:#3E98F7;">My Projects</h2>
-<h2 align="center" style="color:#F772AA;">Statistics</h2>
 <br><br>
-<h2 align="center">Technologies</h2>
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&color=0:F772AA,100:3E98F7&text=Technologies&section=header&reversal=false&textBg=false&fontColor=F772AA&fontSize=24&fontAlign=50&fontAlignY=50&rotate=0&descAlign=40&descAlignY=60" />
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -37,6 +32,12 @@
 </p>
 
 <br><br>
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&color=0:F772AA,100:3E98F7&text=My%20Projects&section=header&reversal=false&textBg=false&fontColor=3E98F7&fontSize=24&fontAlign=50&fontAlignY=50&rotate=0&descAlign=40&descAlignY=60" />
+</h2>
+<h2 align="center" style="color:#F772AA;">Technologies</h2>
+<h2 align="center" style="color:#3E98F7;">My Projects</h2>
+<h2 align="center" style="color:#F772AA;">Statistics</h2>
 <h2 align="center">My Projects</h2>
 
 | Project | Description | Tech Stack | Link |
