@@ -43,4 +43,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Becconor&show_icons=true&theme=dark" width="48%" />
   <img src="https://streak-stats.demolab.com?user=Becconor&theme=dark" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Becconor&layout=compact&theme=dark" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Becconor&theme=github-dark" width="48%" />
+  
 </p>
