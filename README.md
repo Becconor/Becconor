@@ -37,11 +37,10 @@
 ##
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Becconor&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Becconor&theme=github-dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Becconor&show_icons=true&theme=github_dark&hide_border=true" width="50%" />
+  <img src="https://streak-stats.demolab.com?user=Becconor&theme=github-dark&hide_border=true" width="50%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Becconor&layout=compact&theme=github_dark&hide_border=true" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Becconor&theme=github-dark" width="100%" />
 </p>
