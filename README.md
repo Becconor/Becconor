@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
 </p>
 
-## My Projects
+## 👩🏻‍💻 My Projects
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
