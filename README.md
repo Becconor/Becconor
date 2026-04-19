@@ -53,11 +53,5 @@
     src="https://github-readme-activity-graph.vercel.app/graph?username=Becconor&bg_color=0d1117&color=3E98F7&line=F772AA&point=ffffff&area=true&hide_border=true" 
     width="100%" 
   />
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Becconor&show_icons=true&theme=github_dark&hide_border=true" width="48%" height="200px" />
-  <img src="https://streak-stats.demolab.com?user=Becconor&theme=github-dark&hide_border=true" width="48%" height="200px" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Becconor&theme=github-dark" width="100%" />
-</p>
