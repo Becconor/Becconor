@@ -53,3 +53,21 @@
     width="100%" 
   />
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Becconor&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=3E98F7&hide_border=true" 
+    width="49%" height="200px" 
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=Becconor&background=000000&ring=F772AA&fire=F772AA&currStreakLabel=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=CCCCCC&hide_border=true" 
+    width="49%" height="200px" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Becconor&bg_color=000000&color=FFFFFF&line=F772AA&point=3E98F7&area=true&hide_border=true" 
+    width="100%" 
+  />
+</p>
