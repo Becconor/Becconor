@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=0:F772AA,100:3E98F7&text=Technologies&section=header&reversal=false&textBg=false&fontColor=black&fontSize=24&fontAlign=50&fontAlignY=50&rotate=0&descAlign=40&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=0:F772AA,100:3E98F7&text=Technologies&section=header&reversal=false&textBg=false&fontColor=black&fontSize=24&fontAlign=50&fontAlignY=50&rotate=0&descAlign=40&descAlignY=60" />
 </p>
 <h2 align="center" style="color:#F772AA;">Technologies</h2>
 <h2 align="center" style="color:#3E98F7;">My Projects</h2>
