@@ -33,7 +33,7 @@
 <h2 align="center">My Projects</h2>
 
 | Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
+|:---------|-------------|------------|------|
 | **Simple Calculator** | A simple calculator built with JavaScript, featuring dynamic DOM manipulation, event handling, and basic arithmetic operations. | HTML • CSS • Javascript | [GitHub](https://github.com/Becconor/Simple-Calculator.git)
 
 <br><br>
