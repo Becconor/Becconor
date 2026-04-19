@@ -38,19 +38,18 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Becconor&show_icons=true&theme=transparent&hide_border=true&title_color=F772AA&icon_color=3E98F7&text_color=ffffff" 
-    width="48%" height="180px"
+    src="https://github-readme-stats.vercel.app/api?username=Becconor&show_icons=true&bg_color=000000&title_color=F772AA&text_color=FFFFFF&icon_color=3E98F7&hide_border=true" 
+    width="49%" height="200px" 
   />
-  
   <img 
-    src="https://streak-stats.demolab.com?user=Becconor&theme=transparent&hide_border=true&ring=F772AA&fire=F772AA&currStreakLabel=3E98F7&sideLabels=ffffff&dates=aaaaaa" 
-    width="48%" height="180px"
+    src="https://streak-stats.demolab.com?user=Becconor&background=000000&ring=F772AA&fire=F772AA&currStreakLabel=3E98F7&sideLabels=FFFFFF&dates=AAAAAA&hide_border=true" 
+    width="49%" height="200px" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Becconor&bg_color=0d1117&color=3E98F7&line=F772AA&point=ffffff&area=true&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Becconor&bg_color=000000&color=3E98F7&line=F772AA&point=FFFFFF&area=true&hide_border=true" 
     width="100%" 
   />
 </p>
