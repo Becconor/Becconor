@@ -5,8 +5,12 @@
 </p>
 <p align="center">I’m a Web Development student in my second year based in Malmö, Sweden.👩🏻‍🎓📚<br/> Currently focusing on front-end development and UX/UI design, with experience in building user-friendly web applications, while also expanding my backend knowledge in Java and Python.</p>
 
-<br><br>
+
 <h2 align="center" style="color:#F772AA;">Technologies</h2>
+<h2 align="center" style="color:#3E98F7;">My Projects</h2>
+<h2 align="center" style="color:#F772AA;">Statistics</h2>
+<br><br>
+<h2 align="center">Technologies</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
