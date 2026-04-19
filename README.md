@@ -1,8 +1,25 @@
 <img src="Images/BatmanGirl.png"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=0:F772AA,100:3E98F7&text=Hello,%20welcome%20to%20my%20code%20space!&section=header&reversal=false&textBg=false&fontColor=black&fontSize=48&fontAlign=50&fontAlignY=50&rotate=0&descAlign=40&descAlignY=60" />
-</p>
+<h1 align="center">
+  <picture>
+    <!-- Dark mode -->
+    <source 
+      srcset="https://capsule-render.vercel.app/api?type=blur&height=250&color=0:F772AA,100:3E98F7&text=Hello,%20welcome%20to%20my%20code%20space!&fontColor=white&fontSize=48&fontAlign=50&fontAlignY=50"
+      media="(prefers-color-scheme: dark)"
+    />
+    
+    <!-- Light mode -->
+    <source 
+      srcset="https://capsule-render.vercel.app/api?type=blur&height=250&color=0:F772AA,100:3E98F7&text=Hello,%20welcome%20to%20my%20code%20space!&fontColor=black&fontSize=48&fontAlign=50&fontAlignY=50"
+      media="(prefers-color-scheme: light)"
+    />
+
+    <!-- Fallback -->
+    <img 
+      src="https://capsule-render.vercel.app/api?type=blur&height=250&color=0:F772AA,100:3E98F7&text=Hello,%20welcome%20to%20my%20code%20space!&fontColor=black&fontSize=48&fontAlign=50&fontAlignY=50" 
+    />
+  </picture>
+</h1>
 <p align="center">I’m a Web Development student in my second year based in Malmö, Sweden.👩🏻‍🎓📚<br/> Currently focusing on front-end development and UX/UI design, with experience in building user-friendly web applications, while also expanding my backend knowledge in Java and Python.</p>
 
 <br><br>
